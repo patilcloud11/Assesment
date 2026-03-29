@@ -84,6 +84,8 @@ jobs:
     runs-on: ubuntu-latest
     #done
     needs: terraform-plan
+
+    #done
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     steps:
       - name: Deploy Placeholder
