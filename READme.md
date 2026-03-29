@@ -1,5 +1,9 @@
 # 🚀 DevOps Mini Project – End-to-End CI/CD Pipeline
 
+
+<img width="1306" height="916" alt="Assesment" src="https://github.com/user-attachments/assets/da8391bd-2796-4f0f-83ca-b59214563803" />
+
+
 ## 📌 Overview
 
 This project demonstrates a **complete DevOps pipeline** that automates:
