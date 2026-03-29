@@ -82,6 +82,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
+    #done
     needs: terraform-plan
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     steps:
